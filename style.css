@@ -1,0 +1,24 @@
+body {
+background-color: darksalmon;
+color: rgb(2, 88, 173);
+}
+
+.heading {
+width: 40%;
+font-size: large;
+font-weight: bold;
+pointer-events: none;
+}
+
+#camera {
+border: navy;
+border-style: dashed;
+height: 250px;
+width: 300px;
+}
+ .name_of_objects {
+color: rebeccapurple;
+ }
+ #object , #accuracy {
+color: rebeccapurple;
+ }
